@@ -20,3 +20,5 @@ This project implements a hybrid log classification system, combining three comp
    - Provides a fallback or complementary approach to the other methods.
 
 ![architecture](image.png)
+
+google colab: https://colab.research.google.com/#scrollTo=_KmpM_OKEeUK
